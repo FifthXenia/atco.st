@@ -20,6 +20,9 @@
 - QMK Trackballs
    - A Logitech M570 type of trackball, but with QMK, and using https://www.tindie.com/products/jkicklighter/pmw3360-motion-sensor/
 - Sell Keyboard equipment (mechanical switches)
+- PostmarketOS Phones (OnePlus6, Pocophone F1)
+   - (Can maybe replace battery as well, put a screen protector on)
+- Thinkpads with Libreboot/heads, etc.
 - Other cool DIY stuff, that I can 3d print, assemble parts for, and sell kits for (kind of like what Adafruit is doing, but with less markup, more transparency, maybe more automation).
 - Custom DIY Connect-A-Desk Laptop Harness Walking Desk: https://www.amazon.com/gp/product/B00114W9X0
   - The current margins on these are quite high. And I can replace the black fabric, with options for different colors, designs.
