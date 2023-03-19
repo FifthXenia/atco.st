@@ -8,7 +8,7 @@
 - Allows me to sell things I'm interested in to people - Direct to Consumer transactions.
 - Build my network of people looking at things I'm interested.
 - Promote Monero as a payment option.
-- Also maybe get community involved. Like could get Homeless people, Elderly, or children, to solder some Dactyl Manuforms together for people, and they can make some money, and help out. Then when order is shipped, they can include a polaroid, saying "Assembled by X", to make it more personal. Just a way people can contribute, in a wholesome way, without doing acquiring labor through arbitrage techniques via people in undeveloped countries.
+- Also maybe get community involved. Like could get Homeless people, Elderly, or children, to solder some Dactyl Manuforms together for people, and they can make some money, and help out. Then when order is shipped, they can include a polaroid, saying "Assembled by X", to make it more personal. Just a way people can contribute, in a wholesome way, without acquiring labor through arbitrage techniques via leveraging lower labor costs of people in undeveloped countries.
 
 ## Long Term Vision:
 - Have an automated fulfillment system, for fulfilling orders (open source warehouse, and distribution).
@@ -19,6 +19,6 @@
 
 ## How:
 ### Website:
-WooCommerce: https://github.com/woocommerce/woocommerce
-monerowp: https://github.com/monero-integrations/monerowp
- - (For accepting monero payments).
+- WooCommerce: https://github.com/woocommerce/woocommerce
+- monerowp: https://github.com/monero-integrations/monerowp
+   - (For accepting monero payments).
