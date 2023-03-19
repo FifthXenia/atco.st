@@ -10,6 +10,22 @@
 - Promote Monero as a payment option.
 - Also maybe get community involved. Like could get Homeless people, Elderly, or children, to solder some Dactyl Manuforms together for people, and they can make some money, and help out. Then when order is shipped, they can include a polaroid, saying "Assembled by X", to make it more personal. Just a way people can contribute, in a wholesome way, without acquiring labor through arbitrage techniques via leveraging lower labor costs of people in undeveloped countries.
 
+## Current Ideas of Items that will be sold
+### Initial:
+- Basic Dactyl Manuform Kits (unassembled, just one color, one keycap set, one type of mechanical switch for now)
+   - https://github.com/greghab/Dactyl-Manuform-Build-Log
+### Can expand to:
+- More complicated Dactyl Manuforms (Hot Swappable switches, trackballs, etc)
+    - https://github.com/Schievel1/dactyl_manuform_r_track
+- QMK Trackballs
+   - A Logitech M570 type of trackball, but with QMK, and using https://www.tindie.com/products/jkicklighter/pmw3360-motion-sensor/
+- Sell Keyboard equipment (mechanical switches)
+- Other cool DIY stuff, that I can 3d print, assemble parts for, and sell kits for (kind of like what Adafruit is doing, but with less markup, more transparency, maybe more automation).
+- Custom DIY Connect-A-Desk Laptop Harness Walking Desk: https://www.amazon.com/gp/product/B00114W9X0
+  - The current margins on these are quite high. And I can replace the black fabric, with options for different colors, designs.
+- Clothes (in general) - no branding, except on tag.
+   - Can maybe experiment with custom tailoring for a small fee (maybe robot).
+
 ## Long Term Vision:
 - Have an automated fulfillment system, for fulfilling orders (open source warehouse, and distribution).
   - So for electronic kits, have parts stored, conveyor belts, and have resistors bagged, arduinoes bagged, etc. Maybe even have it pack boxes automatically.
