@@ -1,5 +1,8 @@
 # atco.st
 
+## Standard:
+- Through hell or highwater, we will get the goods to you atco.st
+
 ## Purpose:
 - Sell things, mostly at cost.
 - If I inflate prices, then I'll document how I'm doing so, to what amounts, and why.
