@@ -18,8 +18,9 @@
 - Basic Dactyl Manuform Kits (unassembled, just one color, one keycap set, one type of mechanical switch for now)
    - https://github.com/greghab/Dactyl-Manuform-Build-Log
    - Note: Buy one of these, before we do this: https://dactyl.bigcartel.com/product/dactyl-manuform-5x6
-   - Evaluate if this is good quality, as this would be competition (and I don't have to buy a 3d printer, and print this thing).
-      - Ideally, I would have to be less time than them to shipment, and see if I can have lower costs (so price out how much I would see these kits for, relative to that cheaply assembled one).
+      - Evaluate if this is good quality, as this would be competition (and I don't have to buy a 3d printer, and print this thing).
+         - Ideally, I would have to be less time than them to shipment, and see if I can have lower costs (so price out how much I would see these kits for, relative to that cheaply assembled one).
+      - Note: My value add, is that I can funnel people from my audience (YouTube, maybe blog), to my site atco.st, and sell them my kits. And I can ship out in < 1 week (maybe ship every friday), which is quicker return than 12-16 week backlog to build, and then shipping from Indonesia. Also, I offer the kit already scoped out for them, and shipped relatively quickly, reducing decision fatigue, and keeping things simple. So I'm selling "simplicity", for diyers, and those interested in getting their hands dirty. I don't have the means to do the labor for assembly currently.
 ### Can expand to:
 - More complicated Dactyl Manuforms (Hot Swappable switches, trackballs, etc)
     - https://github.com/Schievel1/dactyl_manuform_r_track
