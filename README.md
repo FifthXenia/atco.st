@@ -34,7 +34,7 @@
   - The current margins on these are quite high. And I can replace the black fabric, with options for different colors, designs.
 - Clothes (in general) - no branding, except on tag.
    - Can maybe experiment with custom tailoring for a small fee (maybe robot).
-- gaguino coffee maker kits
+- gaggiuino coffee maker kits
    - https://news.ycombinator.com/item?id=35354032
 ## Long Term Vision:
 - Have an automated fulfillment system, for fulfilling orders (open source warehouse, and distribution).
