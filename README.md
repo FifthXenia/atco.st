@@ -49,3 +49,18 @@
 - WooCommerce: https://github.com/woocommerce/woocommerce
 - monerowp: https://github.com/monero-integrations/monerowp
    - (For accepting monero payments).
+
+
+# ltva permits:
+
+https://www.blm.gov/documents/arizona-colorado-river-do-california-california-desert-do/public-room-frequently-requested
+https://www.blm.gov/documents/arizona-colorado-river-do-california/public-room-frequently-requested/brochure/long-term
+
+24. Vending Permits. You must have a vending permit to carry
+on any commercial activity. Please contact the nearest BLM
+office for information on vending or concession permits.
+
+https://www.blm.gov/about/laws-and-regulations
+- https://www.blm.gov/sites/default/files/docs/2022-11/FLPMA_2021.pdf
+
+https://forums.iboats.com/threads/selling-food-out-on-the-water.436927/
