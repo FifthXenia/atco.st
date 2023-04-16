@@ -36,6 +36,7 @@
   - 1: Front laptop holder: like the: Custom DIY Connect-A-Desk Laptop Harness Walking Desk: https://www.amazon.com/gp/product/B00114W9X0
     - The current margins on these are quite high. And I can replace the black fabric, with options for different colors, designs
     - Can also maybe just drill hole in laptop, hook up detachable 2 prong strap, so it can hang, when not in use. Maybe fold out table.
+      - This also let's me be able to strap a Dactyl Manuform to the top of my laptop keyboard, and not have to worry about not being able to close it. I can just let the whole thing hang from the vest, while I'm not using it.
   - 2: Rear laptop, USBC battery pouch. (or can attach to another location - velcro, etc).
     - Can also maybe have a central power, single USBC charger input, that distributes to rest of unit.
   - 3: Attachable screens (velcro), that can display stuff, tap into central power.
