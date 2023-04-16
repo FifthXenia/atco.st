@@ -24,20 +24,27 @@
       - Note: My value add, is that I can funnel people from my audience (YouTube, maybe blog), to my site atco.st, and sell them my kits. And I can ship out in < 1 week (maybe ship every friday), which is quicker return than 12-16 week backlog to build, and then shipping from Indonesia. Also, I offer the kit already scoped out for them, and shipped relatively quickly, reducing decision fatigue, and keeping things simple. So I'm selling "simplicity", for diyers, and those interested in getting their hands dirty. I don't have the means to do the labor for assembly currently.
 *** Can expand to:
 - More complicated Dactyl Manuforms (Hot Swappable switches, trackballs, etc)
-    - https://github.com/Schievel1/dactyl_manuform_r_track
+  - https://github.com/Schievel1/dactyl_manuform_r_track
 - QMK Trackballs
-   - A Logitech M570 type of trackball, but with QMK, and using https://www.tindie.com/products/jkicklighter/pmw3360-motion-sensor/
+  - A Logitech M570 type of trackball, but with QMK, and using https://www.tindie.com/products/jkicklighter/pmw3360-motion-sensor/
 - Sell Keyboard equipment (mechanical switches)
 - PostmarketOS Phones (OnePlus6, Pocophone F1)
-   - (Can maybe replace battery as well, put a screen protector on)
+  - (Can maybe replace battery as well, put a screen protector on)
 - Thinkpads with Libreboot/heads, etc.
 - Other cool DIY stuff, that I can 3d print, assemble parts for, and sell kits for (kind of like what Adafruit is doing, but with less markup, more transparency, maybe more automation).
-- Custom DIY Connect-A-Desk Laptop Harness Walking Desk: https://www.amazon.com/gp/product/B00114W9X0
-  - The current margins on these are quite high. And I can replace the black fabric, with options for different colors, designs.
+- *Custom Suspenders/vest "Utility Vest", with attachments:*
+  - 1: Front laptop holder: like the: Custom DIY Connect-A-Desk Laptop Harness Walking Desk: https://www.amazon.com/gp/product/B00114W9X0
+    - The current margins on these are quite high. And I can replace the black fabric, with options for different colors, designs
+    - Can also maybe just drill hole in laptop, hook up detachable 2 prong strap, so it can hang, when not in use. Maybe fold out table.
+  - 2: Rear laptop, USBC battery pouch. (or can attach to another location - velcro, etc).
+    - Can also maybe have a central power, single USBC charger input, that distributes to rest of unit.
+  - 3: Attachable screens (velcro), that can display stuff, tap into central power.
+    - LED, OLED.
+  - 4: Attachable infrared cameras, maybe GPS, other sensors. Can position in location on suspenders/vest.
 - Clothes (in general) - no branding, except on tag.
-   - Can maybe experiment with custom tailoring for a small fee (maybe robot).
+  - Can maybe experiment with custom tailoring for a small fee (maybe robot).
 - gaggiuino coffee maker kits
-   - https://news.ycombinator.com/item?id=35354032
+  - https://news.ycombinator.com/item?id=35354032
 ** Long Term Vision:
 - Have an automated fulfillment system, for fulfilling orders (open source warehouse, and distribution).
   - So for electronic kits, have parts stored, conveyor belts, and have resistors bagged, arduinoes bagged, etc. Maybe even have it pack boxes automatically.
