@@ -41,6 +41,12 @@
   - 3: Attachable screens (velcro), that can display stuff, tap into central power.
     - LED, OLED.
   - 4: Attachable infrared cameras, maybe GPS, other sensors. Can position in location on suspenders/vest.
+    - Any additional input/sensors, tap into central USBC PD/data bus.
+    - So plug in laptop to battery bank, it also gets connected to any sensors on the main USBC bus.
+  - 5: Raspberry Pi, that distributes connections of power, and USBC data connection.
+    - Can toggle power on/off for sensor.
+    - Can toggle data connection to external GPS sensors and computer, on/off.
+    - Can control USBC-PD amounts.
 - Clothes (in general) - no branding, except on tag.
   - Can maybe experiment with custom tailoring for a small fee (maybe robot).
 - gaggiuino coffee maker kits
