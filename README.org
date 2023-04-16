@@ -37,6 +37,7 @@
     - The current margins on these are quite high. And I can replace the black fabric, with options for different colors, designs
     - Can also maybe just drill 2x holes in laptop bottom panel (bottom left, bottom right), and hook up detachable 2 prong strap, so it can hang, when not in use. Maybe fold out table, or some sort of 3rd drill hole in back center left, that can some prop it up connect to vest to stand it up.
       - This also let's me be able to strap a Dactyl Manuform to the top of my laptop keyboard, and not have to worry about not being able to close it. I can just let the whole thing hang from the vest, while I'm not using it.
+      - This also let's me be able to mount a trackball to the right, permanently. So I can use a trackball at any time.
     - *(Maybe purchase a sewing machine, get some fabric, and play with the designs).*
   - 2: Rear laptop, USBC battery pouch. (or can attach to another location - velcro, etc).
     - Can also maybe have a central power, single USBC charger input, that distributes to rest of unit.
