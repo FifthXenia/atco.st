@@ -42,6 +42,7 @@
       - This also let's me be able to strap a Dactyl Manuform to the top of my laptop keyboard, and not have to worry about not being able to close it. I can just let the whole thing hang from the vest, while I'm not using it.
       - This also let's me be able to mount a trackball to the right of the laptop/keyboard permanently. So I can use a trackball at any time.
     - *(Maybe purchase a sewing machine, get some fabric, and play with the designs).*
+    - *(Can sell it with a Needle and Thread, so the customer can sew the fabric pieces together, for assembly)*
   - 2: Rear laptop, USBC battery pouch. (or can attach to another location - velcro, etc).
     - Can also maybe have a central power, single USBC charger input, that distributes to rest of unit.
   - 3: Attachable screens (velcro), that can display stuff, tap into central power.
